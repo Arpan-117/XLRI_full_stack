@@ -1,0 +1,89 @@
+body {
+    position: fixed;
+    width: 1440px;
+    /* width: 100%; */
+    height: 1438px;
+    /* height: 100%; */
+
+    background: #FFFFFF;
+}
+
+.header-bar {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1440px;
+    /* width: 100%; */
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+    border: 1px solid #FFFFFF;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.25);
+}
+
+.xlri-logo1 {
+    position: absolute;
+    width: 142px;
+    height: 59px;
+    left: 132px;
+    top: 21px;
+}
+
+.title-heading {
+    position: fixed;
+    width: 375px;
+    height: 31px;
+    top: 32px;
+    right: 549px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #1B4E9B;
+}
+
+.header-logo2 {
+    /* position: absolute; */
+    position: fixed;
+    width: 97px;
+    height: 33px;
+    left: 1070px;
+    right: 273px;
+    top: 31px;
+
+    /* background: url(image.png); */
+}
+
+.header-logo3 {
+    position: fixed;
+    width: 112px;
+    height: 33px;
+    right: 132px;
+    top: 31px;
+
+    /* background: url(image.png); */
+}
+
+.body-container {
+    text-align: center;
+}
+
+.body-title {
+    position: fixed;
+    width: 289px;
+    height: 31px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #000000;
+}

@@ -1,0 +1,208 @@
+@media only screen and (min-width: 1080px) {
+
+
+body {
+    margin: 0%;
+}
+
+.header-bar {
+    box-sizing: border-box;
+
+    /* position: absolute; */
+    /* width: 1440px; */
+    width: auto;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+    border: 1px solid #FFFFFF;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.xlri-logo1 {
+    position: absolute;
+    width: 142px;
+    height: 59px;
+    left: 132px;
+    top: 21px;
+
+}
+
+.title-heading {
+    position: absolute;
+width: 375px;
+height: 31px;
+right: 50%;
+left: 40%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* right: 549px; */
+
+color: #1B4E9B;
+}
+
+.header-logo2 {
+    position: absolute;
+    width: 97px;
+    height: 33px;
+    top: 31px;
+    /* left: 1070px; */
+    right: 271px;
+}
+
+.header-logo3 {
+    position: absolute;
+    width: 112px;
+    height: 33px;
+    top: 31px;
+    right: 132px;
+}
+
+.body-container {
+    position: absolute;
+    text-align: center;
+}
+
+.body-title {
+    position: absolute;
+width: 289px;
+height: 31px;
+
+left: 247%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+}
+
+.desc {
+    position: absolute;
+width: 887.32px;
+height: 64px;
+left: 150%;
+top: 85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+}
+
+.cards {
+    box-sizing: border-box;
+
+width: 309px;
+height: 110px;
+right: 20%;
+
+background: #D4EDFC;
+box-shadow: 0px 0px 30px 1px rgba(114, 114, 114, 0.38);
+border-radius: 6px;
+}
+
+.card-img {
+    box-sizing: border-box;
+
+width: 64px;
+height: 82px;
+
+background: url(XOB22001);
+border: 1px solid #BCCF17;
+border-radius: 4px;
+}
+
+.card-stack {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 20px;
+    column-gap: 20px;
+    position: absolute;
+    top: 350px;
+    left: 20%;
+}
+
+footer {
+    text-align: center;
+}
+
+.footer-tab {
+    box-sizing: border-box;
+
+position: absolute;
+/* width: 1440px; */
+width: 100%;
+height: 100px;
+bottom: 0%;
+background: #1B4E9B;
+}
+
+.whatsapp {
+    position: absolute;
+width: 177px;
+height: 17px;
+top: 200px;
+left: 300%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+box-sizing: border-box;
+
+position: absolute;
+width: 221px;
+height: 34px;
+
+border: 1px solid #D9D9D9;
+border-radius: 5px;
+
+}
+
+.search-box {
+    position: relative;
+top: 300px;
+left: 1200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+
+
+box-sizing: border-box;
+
+
+width: 308px;
+height: 34px;
+
+border: 1px solid #D9D9D9;
+border-radius: 5px;
+}
+
+
+
+
+
+}
